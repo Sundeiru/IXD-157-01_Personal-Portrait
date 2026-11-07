@@ -21,9 +21,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_one[index];
                 });
-                firstImage.src = 'images/change-main_1.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/change-main_1.jpg';
                 firstImage.style.objectPosition = '58% 0%';
-                secondImage.src = 'images/change-main_2.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/change-main_2.jpg';
                 secondImage.style.objectPosition = '50% 0%';
             }
 
@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_two[index];
                 });
-                firstImage.src = 'images/change-main_3.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/change-main_3.jpg';
                 firstImage.style.objectPosition = '30% 0%';
-                secondImage.src = 'images/change-main_4.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/change-main_4.jpg';
                 secondImage.style.objectPosition = '20% 0%';
             }
             
@@ -43,9 +43,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_three[index];
                 });
-                firstImage.src = 'images/change-main_5.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/change-main_5.jpg';
                 firstImage.style.objectPosition = '30% 0%';
-                secondImage.src = 'images/change-main_6.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/change-main_6.jpg';
                 secondImage.style.objectPosition = '40% 0%';
             }
         });
