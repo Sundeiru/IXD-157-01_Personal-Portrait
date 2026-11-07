@@ -21,9 +21,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.innerHTML = text_one[index];
                 });
-                firstImage.src = 'images/beginning-main_1.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_1.jpg';
                 firstImage.style.objectPosition = '58% 0%';
-                secondImage.src = 'images/beginning-main.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main.jpg';
                 secondImage.style.objectPosition = '50% 0%';
             }
 
@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_two[index];
                 });
-                firstImage.src = 'images/beginning-main_3.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_3.jpg';
                 firstImage.style.objectPosition = '30% 0%';
-                secondImage.src = 'images/beginning-main_2.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_2.jpg';
                 secondImage.style.objectPosition = '50% 0%';
             }
             
@@ -42,9 +42,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 let text_three = ["2020 was the first year i gained access to YouTube. i was exposed to various media content, but there was one thing that stuck out to me: <em>Final Fantasy VII Remake</em>. not only was i immersed by the graphics and visual quality of the game, but i was also captivated by the worldbuilding. fascinated by the dystopian qualities of Midgar, i soon incorporated it into my own characters that i had begun to draw.", "sometime along my YouTube phase, one video came to my feed that was about bionic prosthetics. to me, it was like cyborg robotics come to life. until this day, that field stuck with me."]
                 p.forEach((p, index) => {
                     p.innerHTML = text_three[index];
-                firstImage.src = 'images/beginning-main_4.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_4.jpg';
                 firstImage.style.objectPosition = '51.5% 0%';
-                secondImage.src = 'images/beginning-main_5.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_5.jpg';
                 secondImage.style.objectPosition = '71% 0%';
                 });
             }
@@ -54,9 +54,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_four[index];
                 });
-                firstImage.src = 'images/beginning-main_6.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_6.jpg';
                 firstImage.style.objectPosition = '50% 0%';
-                secondImage.src = 'images/beginning-main_7.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_7.jpg';
                 secondImage.style.objectPosition = '48.5% 0%';
             }
 
@@ -65,9 +65,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_five[index];
                 });
-                firstImage.src = 'images/beginning-main_9.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_9.jpg';
                 firstImage.style.objectPosition = '45% 0%';
-                secondImage.src = 'images/beginning-main_8.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/beginning-main_8.jpg';
                 secondImage.style.objectPosition = '75% 0%';
             }
         });
