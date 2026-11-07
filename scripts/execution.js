@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_one[index];
                 });
-                image.src = 'images/execution-main_1.jpg';
+                image.src = 'IXD-157-01_Personal-Portrait/images/execution-main_1.jpg';
                 image.style.objectPosition = '58% 0%';
             }
 
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_two[index];
                 });
-                image.src = 'images/execution-main_2.jpg';
+                image.src = 'IXD-157-01_Personal-Portrait/images/execution-main_2.jpg';
                 image.style.objectPosition = '30% 0%';
             }
             
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_three[index];
                 });
-                image.src = 'images/execution-main_3.jpg';
+                image.src = 'IXD-157-01_Personal-Portrait/images/execution-main_3.jpg';
                 image.style.objectPosition = '51.5% 0%';
             }
         });
