@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.innerHTML = text_one[index];
                 });
-                image.src = 'images/start-main_1.jpg';
+                image.src = 'IXD-157-01_Personal-Portrait/images/start-main_1.jpg';
             }
 
             if (clickedId === 'two') {
@@ -27,14 +27,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_two[index];
                 });
-                image.src = 'images/start-main_2.jpg';
+                image.src = 'IXD-157-01_Personal-Portrait/images/start-main_2.jpg';
             }
             
             if (clickedId === 'three') {
                 let text_three = ["however, things were not sunshine and rainbows. i was dealing with terrible art block, though i don't know if i was aware of that. being exposed to the massive world of the internet brought inspiration as well as destruction. my self-destructive behavior bled into my art, resulting in constant comparison to other artists who were much more experienced than me. i also saw young artists who could draw at professional levels. i felt that i should be learning and improving faster than i was actually capable of.", "i had set my goal to be a professional artist so confidently in my head that i was repulsed by change. i refused to believe that i would change."]
                 p.forEach((p, index) => {
                     p.innerHTML = text_three[index];
-                image.src = 'images/start-main_3.png';
+                image.src = 'IXD-157-01_Personal-Portrait/images/start-main_3.png';
                 });
             }
         });
