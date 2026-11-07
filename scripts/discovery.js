@@ -22,11 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_one[index];
                 });
-                firstImage.src = 'images/discovery-main_1.jpg';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_1.jpg';
                 firstImage.style.objectPosition = '12% 0%';
-                secondImage.src = 'images/discovery-main_2.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_2.jpg';
                 secondImage.style.objectPosition = '40% 0%';
-                thirdImage.src = 'images/discovery-main_3.jpg';
+                thirdImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_3.jpg';
                 thirdImage.style.objectPostion = '45% 0%';
             }
 
@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 p.forEach((p, index) => {
                     p.textContent = text_two[index];
                 });
-                firstImage.src = 'images/discovery-main_4.png';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_4.png';
                 firstImage.style.objectPosition = '19% 0%';
-                secondImage.src = 'images/discovery-main_5.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_5.jpg';
                 secondImage.style.objectPosition = '30% 0%';
-                thirdImage.src = 'images/discovery-main_6.jpg';
+                thirdImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_6.jpg';
                 thirdImage.style.objectPosition = '20% 0%';
             }
             
@@ -47,11 +47,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 let text_three = ["my mom consulted with my art teacher and came back with surprising news - my teacher said it was possible. in fact, one of the teaching assistants at the studio had done the exact same thing. the pieces were falling into place at a scary pace.", "i began to create my entrance portfolio that following June. through the portfolio program, i met other high school juniors and seniors, the first time i really had friends who were artists and who shared similar interests."];
                 p.forEach((p, index) => {
                     p.innerHTML = text_three[index];
-                firstImage.src = 'images/discovery-main_7.png';
+                firstImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_7.png';
                 firstImage.style.objectPosition = '26% 0%';
-                secondImage.src = 'images/discovery-main_8.jpg';
+                secondImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_8.jpg';
                 secondImage.style.objectPosition = '53.5% 0%';
-                thirdImage.src = 'images/discovery-main_9.jpg';
+                thirdImage.src = 'IXD-157-01_Personal-Portrait/images/discovery-main_9.jpg';
                 thirdImage.style.objectPosition = '54.5% 0%';
                 });
             }
